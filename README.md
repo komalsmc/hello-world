@@ -1,2 +1,2 @@
 # hello-world
-New repository.
+Git hub rocks...
